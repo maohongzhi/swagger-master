@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-tongfang/springboot-swagger-demo1.iml" filepath="$PROJECT_DIR$/springboot-tongfang/springboot-swagger-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-swagger-demo1/springboot-swagger-demo1 (1) (com.itguang).iml" filepath="$PROJECT_DIR$/springboot-swagger-demo1/springboot-swagger-demo1 (1) (com.itguang).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/swagger-master.iml" filepath="$PROJECT_DIR$/.idea/swagger-master.iml" />
+    </modules>
+  </component>
+</project>
